@@ -7,7 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Karan's first public react project</p>
+        <p>
+          Karan's first public react project. This is a build pipeline test!
+        </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
